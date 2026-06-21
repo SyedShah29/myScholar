@@ -1,0 +1,60 @@
+{
+  "fabricated_hadith": [
+    {
+      "phrase": "seek knowledge even unto China",
+      "aliases": ["seek knowledge even in china", "seek knowledge even unto china"],
+      "status": "fabricated",
+      "correction": "This saying is not found in any authentic hadith collection. It is commonly attributed to the Prophet ﷺ but scholars of hadith, including Al-Albani, have classified it as fabricated (mawdu'). The authentic teaching is to seek knowledge without geographic restriction — see Sahih Muslim and Ibn Majah which emphasize the obligation of seeking knowledge without this fabrication.",
+      "better_reference": "Sunan Ibn Majah 224 — 'Seeking knowledge is an obligation upon every Muslim.'"
+    },
+    {
+      "phrase": "cleanliness is half of faith",
+      "aliases": ["taharah is half of iman", "cleanliness is half of iman"],
+      "status": "authentic_but_misunderstood",
+      "correction": "This is authentic — found in Sahih Muslim 223 — but it refers to ritual purification (taharah), not general cleanliness as commonly understood. 'Al-tuhur shatar al-iman' means purification (wudu, ghusl) forms half of faith.",
+      "better_reference": "Sahih Muslim 223"
+    },
+    {
+      "phrase": "god helps those who help themselves",
+      "aliases": ["allah helps those who help themselves"],
+      "status": "not_hadith",
+      "correction": "This phrase does not appear anywhere in the Quran or Sunnah. It is a Western proverb, sometimes attributed to Benjamin Franklin or ancient Greek sources. Islam teaches tawakkul (trust in Allah) combined with taking means — but this specific phrasing is not Islamic scripture.",
+      "better_reference": "Quran 65:3 — 'And whoever relies upon Allah — then He is sufficient for him.'"
+    },
+    {
+      "phrase": "the ink of the scholar is more holy than the blood of the martyr",
+      "aliases": ["ink of scholars is holier than blood of martyrs", "ink of the scholar"],
+      "status": "fabricated",
+      "correction": "This hadith is classified as fabricated (mawdu') by hadith scholars including Al-Albani and Ibn al-Jawzi. While knowledge is greatly valued in Islam, this specific wording is not from an authentic source.",
+      "better_reference": "Quran 58:11 — 'Allah will raise those who have believed among you and those who were given knowledge, by degrees.'"
+    },
+    {
+      "phrase": "trust in allah but tie your camel",
+      "aliases": ["tie your camel then trust in allah", "tie your camel and trust allah"],
+      "status": "weak",
+      "correction": "This hadith is often cited as authentic but is classified as weak (da'if) by many hadith scholars. The concept it conveys — taking means while trusting Allah — is Islamically correct, but the specific wording should not be attributed to the Prophet ﷺ as a confirmed hadith.",
+      "better_reference": "Authentic teaching: Quran 8:60 on preparation; and Sahih Muslim on tawakkul."
+    },
+    {
+      "phrase": "the world is a prison for the believer and a paradise for the disbeliever",
+      "aliases": ["dunya is a prison for the believer", "world is prison for believer"],
+      "status": "authentic",
+      "correction": "This is authentic — found in Sahih Muslim 2956. It means the believer is constrained by lawful limits and misses the perfection of Paradise, while the disbeliever enjoys all they will ever have in this life.",
+      "better_reference": "Sahih Muslim 2956"
+    },
+    {
+      "phrase": "think well of allah",
+      "aliases": ["husn al-dhann billah"],
+      "status": "authentic",
+      "correction": "Having good expectations of Allah (husn al-dhann billah) is confirmed in hadith — 'I am as My servant thinks of Me' — found in Sahih Bukhari 7405 and Sahih Muslim 2675. This is authentic.",
+      "better_reference": "Sahih Bukhari 7405, Sahih Muslim 2675"
+    },
+    {
+      "phrase": "poverty is my pride",
+      "aliases": ["al-faqr fakhri", "poverty is my glory"],
+      "status": "fabricated",
+      "correction": "The saying 'Al-faqru fakhri' (poverty is my pride/glory) is not authentically attributed to the Prophet ﷺ. It is classified as fabricated. The Prophet ﷺ actually sought refuge from poverty in authentic supplications (Abu Dawud 1543).",
+      "better_reference": "Abu Dawud 1543 — The Prophet ﷺ sought refuge from poverty."
+    }
+  ]
+}

@@ -1,0 +1,4421 @@
+{
+  "scholars": [
+    {
+      "id": "gen_b0_0",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The key to happiness is to know what is good and to cling to it",
+      "arabic": "مفتاح السعادة أن تعرف الخير و تتمسك به",
+      "source": "Al-Munqidh min al-Dalal",
+      "topics": [
+        "happiness",
+        "goodness"
+      ]
+    },
+    {
+      "id": "gen_b0_1",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and knowledge is what fills it",
+      "arabic": "القلب إناء وال علم ما يملأه",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b0_2",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The soul is purified by remembering Allah, and corrupted by remembering other than Him",
+      "arabic": "تنضى النفس بذكر الله و تندى بذكر ما سواه",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "soul",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "gen_b0_3",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to make the heart humble and submissive to Allah",
+      "arabic": "أفضل الأعمال إخبات القلب لله",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "heart",
+        "humility"
+      ]
+    },
+    {
+      "id": "gen_b0_4",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "Knowledge is the basis of all good, and ignorance is the basis of all evil",
+      "arabic": "العلم أساس كل خير و الجهل أساس كل شر",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "ignorance"
+      ]
+    },
+    {
+      "id": "gen_b0_5",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge should be like a thirsty person, who drinks water with eagerness",
+      "arabic": "من أراد العلم فليكن كالعطشان يشرب الماء شربة بعد شربة",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "eagerness"
+      ]
+    },
+    {
+      "id": "gen_b0_6",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is an obligation upon every Muslim",
+      "arabic": "طلاب العلم فرض على كل مسلم",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b0_7",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah is like a person who holds onto a strong rope",
+      "arabic": "من اتبع السنة كان كمن أمسك بحبل متين",
+      "source": "Al-Musnad",
+      "topics": [
+        "sunnah",
+        "strength"
+      ]
+    },
+    {
+      "id": "gen_b0_8",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a cure for the diseases of the heart",
+      "arabic": "القرآن شفاء لامراض القلب",
+      "source": "Tafsir al-Quran al-Azeem",
+      "topics": [
+        "quran",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b0_9",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is guided by reason and revelation will never go astray",
+      "arabic": "من هديه العقل و الوحي لم يضل ابدا",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "reason",
+        "revelation"
+      ]
+    },
+    {
+      "id": "gen_b0_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship will be rewarded with a great reward",
+      "arabic": "من صبر على مشقة كان له اجرا عظيما",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b0_11",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of ease will be remembered by Him in times of hardship",
+      "arabic": " من ذكر الله في الرخاء ذكره الله في العسير",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "ease"
+      ]
+    },
+    {
+      "id": "gen_b0_12",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who knows himself knows his Lord",
+      "arabic": "من عرف نفسه عرف ربه",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "self",
+        "lord"
+      ]
+    },
+    {
+      "id": "gen_b0_13",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who loves for the sake of Allah will be loved by Him",
+      "arabic": "من أحب لله أحبه الله",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "love",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b0_14",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge should be humble and submissive",
+      "arabic": "من أراد العلم فليكن متواضعا مخبتا",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "humility"
+      ]
+    },
+    {
+      "id": "gen_b0_15",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who follows the Sunnah will be guided to the straight path",
+      "arabic": "من اتبع السنة سلك سبيل الرشاد",
+      "source": "Al-Muwatta",
+      "topics": [
+        "sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b0_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who is truthful in his words will be granted a high rank by Allah",
+      "arabic": "من صدق في قوله ردى له عند الله منزلة عالية",
+      "source": "Al-Musnad",
+      "topics": [
+        "truth",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b0_17",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a book of wisdom and guidance",
+      "arabic": "القرآن كتاب حكمة و هداية",
+      "source": "Tafsir al-Quran al-Azeem",
+      "topics": [
+        "quran",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b0_18",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who contemplates the creation of Allah will come to know His greatness",
+      "arabic": "من تامل خلق الله علمه عظمته",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "contemplation",
+        "greatness"
+      ]
+    },
+    {
+      "id": "gen_b0_19",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge should be like a traveler, who travels with a purpose",
+      "arabic": "من أراد العلم فليكن كالصاحب الذي يسافر لهدف",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "knowledge",
+        "traveler"
+      ]
+    },
+    {
+      "id": "gen_b0_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship will be rewarded with a great reward in the Hereafter",
+      "arabic": "من صبر على مشقة في الدنيا جزاه الله جزاء عظيما في الآخرة",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b0_21",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of ease will be given strength in times of hardship",
+      "arabic": "من ذكر الله في الرخاء أوتي قوة في العسير",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "strength"
+      ]
+    },
+    {
+      "id": "gen_b0_22",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who knows himself knows his weaknesses and his strengths",
+      "arabic": "من عرف نفسه عرفضعفه وقوته",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "self",
+        "weakness"
+      ]
+    },
+    {
+      "id": "gen_b0_23",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who loves for the sake of Allah will be loved by the angels and the believers",
+      "arabic": "من أحب لله أحبه الملائكة و المؤمنون",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "love",
+        "angels"
+      ]
+    },
+    {
+      "id": "gen_b0_24",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge should be like a seeker of treasure, who searches with eagerness",
+      "arabic": "من أراد العلم فليكن كالطالب للكنز الذي يبحث بحرص",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "treasure"
+      ]
+    },
+    {
+      "id": "gen_b0_25",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who follows the Sunnah will be guided to the straight path and will be spared from the punishment of Allah",
+      "arabic": "من اتبع السنة سلك سبيل الرشاد و نجا من عذاب الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b1_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a tree, and knowledge is its fruit.",
+      "arabic": "القلب شجرة، وال科学 ثمرها",
+      "source": "Rawdat al-Muhibbin",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b1_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of deeds is to bring happiness to a Muslim.",
+      "arabic": "أفضل الأعمال إسعاد المسلم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "charity",
+        "kindness"
+      ]
+    },
+    {
+      "id": "gen_b1_2",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is an obligation upon every Muslim.",
+      "arabic": "طلب العلم فرض على كل مسلم",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b1_3",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The most virtuous of deeds is to speak the truth, even if it is bitter.",
+      "arabic": "أفضل الأعمال قول الحق ولو كان مرا",
+      "source": "Al-Musnad",
+      "topics": [
+        "truth",
+        "virtue"
+      ]
+    },
+    {
+      "id": "gen_b1_4",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The believer is the mirror of the believer, so if you see a fault in your brother, try to remove it.",
+      "arabic": "المؤمن مرآة المؤمن، فإذا رأيت عيبا في أخيك فاجتهد في إزالته",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "brotherhood",
+        "advice"
+      ]
+    },
+    {
+      "id": "gen_b1_5",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The key to happiness is to be content with what Allah has decreed.",
+      "arabic": "مفتاح السعادة الرضا بما قضى الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "happiness"
+      ]
+    },
+    {
+      "id": "gen_b1_6",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The perfection of a person's faith is in his leaving alone that which does not concern him.",
+      "arabic": "كمال الإيمان في ترك ما لا يعنيه",
+      "source": "Al-Muwatta",
+      "topics": [
+        "faith",
+        "ignorance"
+      ]
+    },
+    {
+      "id": "gen_b1_7",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The servant of Allah will not attain true freedom until he frees himself from the slavery of his desires.",
+      "arabic": "لا يصل العبد إلى الحرية الحقة حتى يفر himself من رق شواهه",
+      "source": "Al-Furqan bayna Awliya al-Rahman wa Awliya al-Shaytan",
+      "topics": [
+        "freedom",
+        "desires"
+      ]
+    },
+    {
+      "id": "gen_b1_8",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of companions is the one who reminds you of Allah.",
+      "arabic": "خير الصحبة من يذكرك الله",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "companionship",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "gen_b1_9",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to the door of knowledge is to ask questions.",
+      "arabic": "مفتاح باب العلم السؤال",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "inquiry"
+      ]
+    },
+    {
+      "id": "gen_b1_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is deprived of kindness is deprived of everything.",
+      "arabic": "من حُرم الرحمة حُرم كل شيء",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "kindness",
+        "generosity"
+      ]
+    },
+    {
+      "id": "gen_b1_11",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The foundation of the religion is the intention.",
+      "arabic": "أصل الدين النية",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "intention",
+        "religion"
+      ]
+    },
+    {
+      "id": "gen_b1_12",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows his desires will be destroyed by them.",
+      "arabic": "من اتبع هواه أهلكه",
+      "source": "Al-Musnad",
+      "topics": [
+        "desires",
+        "destruction"
+      ]
+    },
+    {
+      "id": "gen_b1_13",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The believer is not bitten from the same hole twice.",
+      "arabic": "ليس للمؤمن ملسع من الجحر مرتين",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "caution",
+        "experience"
+      ]
+    },
+    {
+      "id": "gen_b1_14",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who knows himself knows his Lord.",
+      "arabic": "من عرف نفسه عرف ربه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "self-knowledge",
+        "God"
+      ]
+    },
+    {
+      "id": "gen_b1_15",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The servant of Allah will not attain true humility until he humbles himself before the creation of Allah.",
+      "arabic": "لا يصل العبد إلى الخشوع الحقيقي حتى يخضع لخلقة الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "servitude"
+      ]
+    },
+    {
+      "id": "gen_b1_16",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is sincere in his devotion to Allah will be granted strength and power.",
+      "arabic": "من أخلص للَّه تعالى عطاه القوة والقدرة",
+      "source": "Al-Furqan bayna Awliya al-Rahman wa Awliya al-Shaytan",
+      "topics": [
+        "sincerity",
+        "strength"
+      ]
+    },
+    {
+      "id": "gen_b1_17",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of ease will be remembered by Allah in times of hardship.",
+      "arabic": "من ذکر الله في الرخاء ذکرَه الله في الشدة",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "remembrance",
+        "hardship"
+      ]
+    },
+    {
+      "id": "gen_b1_18",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to understanding the Quran is to ponder its meanings.",
+      "arabic": "مفتاح فهم القرآن التأمل في معانيه",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "Quran",
+        "contemplation"
+      ]
+    },
+    {
+      "id": "gen_b1_19",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship will be granted relief and ease.",
+      "arabic": "من صبر على الضراء أوتي الفرج والرخاء",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "patience",
+        "relief"
+      ]
+    },
+    {
+      "id": "gen_b1_20",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who seeks knowledge for the sake of Allah will be granted wisdom and understanding.",
+      "arabic": "من طلب العلم لله تعالى أوتي الحكمة والفهم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b1_21",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who fears Allah will be feared by the creation of Allah.",
+      "arabic": "من خاف الله خافته خلقة الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "fear",
+        "respect"
+      ]
+    },
+    {
+      "id": "gen_b1_22",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is grateful for the blessings of Allah will be granted more blessings.",
+      "arabic": "من شكر الله على نعمته أوتي مزيدا من النعم",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b1_23",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who knows the value of time will be granted success and prosperity.",
+      "arabic": "من عرف قيمة الوقت أوتي النجاح والرزق",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "time",
+        "success"
+      ]
+    },
+    {
+      "id": "gen_b1_24",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge and acts upon it will be granted a high rank in the hereafter.",
+      "arabic": "من طلب العلم وعمل به أوتي منزلة عالية في الآخرة",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b1_25",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who loves Allah and His Messenger will be loved by Allah and His angels.",
+      "arabic": "من أحب الله ورسوله أحبه الله وملايكته",
+      "source": "Al-Furqan bayna Awliya al-Rahman wa Awliya al-Shaytan",
+      "topics": [
+        "love",
+        "angels"
+      ]
+    },
+    {
+      "id": "gen_b2_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a mirror, it reflects what is in it",
+      "arabic": "القلب كالمرآة ينعكس فيه ما فيه",
+      "source": "Miftah Dar al-Sa'adah",
+      "topics": [
+        "heart",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "gen_b2_1",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "If you want to attain knowledge, be patient and persistent",
+      "arabic": "إذا أردت أن تصل إلى العلم فاصبر و أضمر",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "patience"
+      ]
+    },
+    {
+      "id": "gen_b2_2",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The highest degree of wisdom is to know one's own ignorance",
+      "arabic": "أعلى درجات الحكمة أن يعرف الإنسان جهله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "wisdom",
+        "ignorance"
+      ]
+    },
+    {
+      "id": "gen_b2_3",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The greatest of all struggles is the struggle against the self",
+      "arabic": "أعظم الجهاد جهاد النفس",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "struggle",
+        "self"
+      ]
+    },
+    {
+      "id": "gen_b2_4",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of deeds is to bring benefit to the people",
+      "arabic": "أفضل الأعمال ما ينفع الناس",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "deeds",
+        "benefit"
+      ]
+    },
+    {
+      "id": "gen_b2_5",
+      "scholar": "Imam Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The foundation of all good deeds is sincerity",
+      "arabic": "أصل كل عمل خير الإخلاص",
+      "source": "Al-Musnad",
+      "topics": [
+        "sincerity",
+        "deeds"
+      ]
+    },
+    {
+      "id": "gen_b2_6",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a bee, taking from every flower",
+      "arabic": "يبغي الطالب للعلم أن يكون كالنحل يأخذ من كل زهرة",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b2_7",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the greatest miracle of the Prophet Muhammad",
+      "arabic": "القرآن أعظم معجزة النبي محمد",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "Quran",
+        "miracle"
+      ]
+    },
+    {
+      "id": "gen_b2_8",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to understanding the Quran is to know the context",
+      "arabic": "مفتاح فهم القرآن أن تعرف السياق",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "Quran",
+        "context"
+      ]
+    },
+    {
+      "id": "gen_b2_9",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of you are those who are the best in character",
+      "arabic": "خياركم خياركم بأخلاقهم",
+      "source": "Al-Muwatta",
+      "topics": [
+        "character",
+        "excellence"
+      ]
+    },
+    {
+      "id": "gen_b2_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is the king of the body, and the limbs are its soldiers",
+      "arabic": "القلب هو الملك و الأعضاء هي جنوده",
+      "source": "Miftah Dar al-Sa'adah",
+      "topics": [
+        "heart",
+        "body"
+      ]
+    },
+    {
+      "id": "gen_b2_11",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The world is a prison for the believer and a paradise for the disbeliever",
+      "arabic": "الدنيا سجن للمؤمن و جنة للكافر",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "world",
+        "believer"
+      ]
+    },
+    {
+      "id": "gen_b2_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The most excellent of all forms of worship is the prayer",
+      "arabic": "أفضل forme من forme العبادة هي الصلاة",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "prayer",
+        "worship"
+      ]
+    },
+    {
+      "id": "gen_b2_13",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The knowledge of the self is the most important of all knowledge",
+      "arabic": "علم النفس أعظم العلوم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "self",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b2_14",
+      "scholar": "Imam Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of all things is to follow the Sunnah",
+      "arabic": "أفضل الأشياء اتباع السنة",
+      "source": "Al-Musnad",
+      "topics": [
+        "Sunnah",
+        "follow"
+      ]
+    },
+    {
+      "id": "gen_b2_15",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be humble and modest",
+      "arabic": "يبغي الطالب للعلم أن يكون متواضعا مخلوقا",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "humility"
+      ]
+    },
+    {
+      "id": "gen_b2_16",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the Book of Allah, and it is the greatest of all books",
+      "arabic": "القرآن كتاب الله و هو أعظم الكتب",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "Quran",
+        "book"
+      ]
+    },
+    {
+      "id": "gen_b2_17",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to understanding the Hadith is to know the context",
+      "arabic": "مفتاح فهم الحديث أن تعرف السياق",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "Hadith",
+        "context"
+      ]
+    },
+    {
+      "id": "gen_b2_18",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of you are those who are the best in their treatment of others",
+      "arabic": "خياركم خياركم في معاملتهم للناس",
+      "source": "Al-Muwatta",
+      "topics": [
+        "treatment",
+        "others"
+      ]
+    },
+    {
+      "id": "gen_b2_19",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is the center of all emotions and thoughts",
+      "arabic": "القلب هو مركز جميع المشاعر و الأفكار",
+      "source": "Miftah Dar al-Sa'adah",
+      "topics": [
+        "heart",
+        "emotions"
+      ]
+    },
+    {
+      "id": "gen_b2_20",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The world is a bridge to the Hereafter, and it should be crossed with caution",
+      "arabic": "الدنيا جسر إلى الآخرة و يجب أن تعبر به بحذر",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "world",
+        "Hereafter"
+      ]
+    },
+    {
+      "id": "gen_b2_21",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The most excellent of all forms of worship is the remembrance of Allah",
+      "arabic": "أفضل forme من forme العبادة هي ذكر الله",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "remembrance",
+        "worship"
+      ]
+    },
+    {
+      "id": "gen_b2_22",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The knowledge of the Quran is the most important of all knowledge",
+      "arabic": "علم القرآن أعظم العلوم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "Quran",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b2_23",
+      "scholar": "Imam Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of all things is to follow the example of the Prophet Muhammad",
+      "arabic": "أفضل الأشياء اتباع سنة النبي محمد",
+      "source": "Al-Musnad",
+      "topics": [
+        "Prophet",
+        "example"
+      ]
+    },
+    {
+      "id": "gen_b2_24",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be patient and persistent in their quest",
+      "arabic": "يبغي الطالب للعلم أن يصبر و يثابر في طلبه",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "patience"
+      ]
+    },
+    {
+      "id": "gen_b2_25",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the Book of Guidance, and it guides us to the right path",
+      "arabic": "القرآن كتاب الهدي و يهدينا إلى الصراط المستقيم",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b3_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and knowledge is what fills it.",
+      "arabic": "القلب إناء والknowledge ما يملأه",
+      "source": "Miftah Dar al-Sa'adah",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b3_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The pursuit of knowledge is a duty upon every Muslim.",
+      "arabic": "طاعة طلب العلم على كل مسلم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "duty"
+      ]
+    },
+    {
+      "id": "gen_b3_2",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The pleasure of knowledge is the pleasure of the soul.",
+      "arabic": "لذة العلم لذة النفس",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "soul"
+      ]
+    },
+    {
+      "id": "gen_b3_3",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "If you want to be loved by Allah, then love the Quran.",
+      "arabic": "إذا أردت حب الله فاحب القرآن",
+      "source": "Al-Risala",
+      "topics": [
+        "Quran",
+        "love"
+      ]
+    },
+    {
+      "id": "gen_b3_4",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is the deeds of the heart.",
+      "arabic": "أفضل الأعمال أعمال القلب",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "heart",
+        "deeds"
+      ]
+    },
+    {
+      "id": "gen_b3_5",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "Do not dispute with anyone about the Quran, for it is the word of Allah.",
+      "arabic": "لا تختلفن في القرآن فإنه كلام الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "Quran",
+        "dispute"
+      ]
+    },
+    {
+      "id": "gen_b3_6",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge without acting upon it is like the one who sows a seed but does not water it.",
+      "arabic": "الطالب العلم بلا عمل كالزارع بلا ماء",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b3_7",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The love of the world is the root of all evil.",
+      "arabic": "حب الدنيا أصل كل شر",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "world",
+        "evil"
+      ]
+    },
+    {
+      "id": "gen_b3_8",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is content with what Allah has given him will be the richest of people.",
+      "arabic": "من رضي بما أعطاه الله كان أغنى الناس",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "wealth"
+      ]
+    },
+    {
+      "id": "gen_b3_9",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a bee, taking the best from every flower.",
+      "arabic": "ينبغي للطالب أن يكون كالنحل يقبل من كل زهرة",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b3_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who remembers Allah in solitude will be granted companionship in loneliness.",
+      "arabic": "من ذكر الله في الوحدة رفيقه في الوحدة",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "remembrance",
+        "solitude"
+      ]
+    },
+    {
+      "id": "gen_b3_11",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is grateful for the blessings of Allah will be given more blessings.",
+      "arabic": "من شكر الله على نعمه زاده",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b3_12",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of Allah will be granted wisdom.",
+      "arabic": "من طلب العلم لله يمنح الحكمة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b3_13",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a remedy for the hearts.",
+      "arabic": "القرآن شفاء للقلوب",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "Quran",
+        "hearts"
+      ]
+    },
+    {
+      "id": "gen_b3_14",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in the face of adversity will be granted relief.",
+      "arabic": "من صبر على البلاء يمنح الفرج",
+      "source": "Al-Musnad",
+      "topics": [
+        "patience",
+        "adversity"
+      ]
+    },
+    {
+      "id": "gen_b3_15",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who acts upon his knowledge will be granted more knowledge.",
+      "arabic": "من عمل بعلمه زاده علم",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b3_16",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who loves the Prophet will be with him in Paradise.",
+      "arabic": "من أحب النبي يكون معه في الجنة",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Prophet",
+        "love"
+      ]
+    },
+    {
+      "id": "gen_b3_17",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in every situation will be granted peace.",
+      "arabic": "من ذكر الله في كل حالة أمね",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "remembrance",
+        "peace"
+      ]
+    },
+    {
+      "id": "gen_b3_18",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of fame will be humiliated.",
+      "arabic": "من طلب العلم للهتم يخزى",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "fame"
+      ]
+    },
+    {
+      "id": "gen_b3_19",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is grateful for the blessings of Allah will be given more blessings.",
+      "arabic": "من شكر الله على نعمه زاده",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b3_20",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who acts upon his knowledge will be granted wisdom.",
+      "arabic": "من عمل بعلمه يمنح الحكمة",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b3_21",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in every situation will be granted relief.",
+      "arabic": "من ذكر الله في كل حالة يمنح الفرج",
+      "source": "Al-Risala",
+      "topics": [
+        "remembrance",
+        "relief"
+      ]
+    },
+    {
+      "id": "gen_b3_22",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a guide for those who seek guidance.",
+      "arabic": "القرآن هادي للذين يبتغون الهدى",
+      "source": "Tafsir Ibn Kathir",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b3_23",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in the face of adversity will be granted a good end.",
+      "arabic": "من صبر على البلاء يمنح حسن الخاتمة",
+      "source": "Al-Musnad",
+      "topics": [
+        "patience",
+        "adversity"
+      ]
+    },
+    {
+      "id": "gen_b3_24",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who acts upon his knowledge will be granted a high rank.",
+      "arabic": "من عمل بعلمه يمنح درجة عالية",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b3_25",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who loves the Prophet will be under his shade on the Day of Judgment.",
+      "arabic": "من أحب النبي يكون تحت ظله يوم القيامة",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Prophet",
+        "love"
+      ]
+    },
+    {
+      "id": "gen_b5_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and it can only hold a certain amount of water.",
+      "arabic": "القلب كالإناء، ولا يطيق أن يحمل أكثر من قدره",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "heart",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "gen_b5_1",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "If you want to know the truth, then do not look at the words, but look at the deeds.",
+      "arabic": "إن أردت أن تعرف الحق، فلا تنظر إلى الأقوال، وإنما تنظر إلى الأعمال",
+      "source": "Al-Risala",
+      "topics": [
+        "truth",
+        "actions"
+      ]
+    },
+    {
+      "id": "gen_b5_2",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to make a Muslim happy, and to remove his distress.",
+      "arabic": "من أفضل الأعمال إسعاد المسلم، ورفع همه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "charity",
+        "kindness"
+      ]
+    },
+    {
+      "id": "gen_b5_3",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The most noble of deeds is to bring benefit to others, and the most base of deeds is to bring harm to others.",
+      "arabic": "أشرف الأعمال منفعة الناس، وأدنى الأعمال ضرر الناس",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "noble deeds",
+        "harm"
+      ]
+    },
+    {
+      "id": "gen_b5_4",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "Purity of the heart is the basis of all good deeds.",
+      "arabic": "طهارة القلب أصل كل عمل صالح",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "purity",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b5_5",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is mindful of Allah in private, will be given a light in public.",
+      "arabic": "من كان يخاف الله في الخلاء، أوتي نورا في العلانية",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "mindfulness",
+        "light"
+      ]
+    },
+    {
+      "id": "gen_b5_6",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who is humble, will be raised in rank by Allah.",
+      "arabic": "من تواضع، رفعه الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "humility",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b5_7",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge, will be given wisdom by Allah.",
+      "arabic": "من طلب العلم، أوتي الحكمة من الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b5_8",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is grateful, will be given more blessings by Allah.",
+      "arabic": "من شكر، زيد",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b5_9",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who follows the Sunnah, will be guided by Allah.",
+      "arabic": "من اتبع السنة، هدى الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "Sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b5_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient, will be given a great reward by Allah.",
+      "arabic": "من صبر، جزاه الله جزاء عظيما",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b5_11",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is truthful, will be given a strong heart by Allah.",
+      "arabic": "من صدق، قوي الله قلبه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "truthfulness",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b5_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is just, will be given a high rank by Allah.",
+      "arabic": "من عدل، رفعه الله",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "justice",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b5_13",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who fears Allah, will be given a sense of security by Allah.",
+      "arabic": "من خاف الله، أمنه الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "fear",
+        "security"
+      ]
+    },
+    {
+      "id": "gen_b5_14",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is merciful, will be shown mercy by Allah.",
+      "arabic": "من رحم، رحمه الله",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "mercy",
+        "compassion"
+      ]
+    },
+    {
+      "id": "gen_b5_15",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who repents, will be forgiven by Allah.",
+      "arabic": "من تاب، غفر الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "repentance",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "gen_b5_16",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is honest, will be given a good reputation by Allah.",
+      "arabic": "من أمان، حسنت سمعته عند الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "honesty",
+        "reputation"
+      ]
+    },
+    {
+      "id": "gen_b5_17",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is thankful, will be given more blessings by Allah.",
+      "arabic": "من شكر، زيد",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b5_18",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who follows the Sunnah, will be guided by Allah.",
+      "arabic": "من اتبع السنة، هدى الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "Sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b5_19",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is gentle, will be given a high rank by Allah.",
+      "arabic": "من لين، رفعه الله",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "gentleness",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b5_20",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is humble, will be exalted by Allah.",
+      "arabic": "من تواضع، رفعه الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "humility",
+        "exaltation"
+      ]
+    },
+    {
+      "id": "gen_b5_21",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient, will be given a great reward by Allah.",
+      "arabic": "من صبر، جزاه الله جزاء عظيما",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b5_22",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who fears Allah, will be given a sense of security by Allah.",
+      "arabic": "من خاف الله، أمنه الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "fear",
+        "security"
+      ]
+    },
+    {
+      "id": "gen_b5_23",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is truthful, will be given a strong heart by Allah.",
+      "arabic": "من صدق، قوي الله قلبه",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "truthfulness",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b5_24",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who repents, will be forgiven by Allah.",
+      "arabic": "من تاب، غفر الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "repentance",
+        "forgiveness"
+      ]
+    },
+    {
+      "id": "gen_b5_25",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is honest, will be given a good reputation by Allah.",
+      "arabic": "من أمان، حسنت سمعته عند الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "honesty",
+        "reputation"
+      ]
+    },
+    {
+      "id": "gen_b8_0",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The heart is like a mirror, and knowledge is like the polishing of the mirror",
+      "arabic": "القلب كالمرآة، والعلم كتجليدها",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b8_1",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The seeker of knowledge should be like a patient, who only takes medicine from a trustworthy doctor",
+      "arabic": "الطالب للعلم يكون كالمريض الذي لا يقبل العلاج إلا من طبيب موثوق",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b8_2",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by Allah will never be misguided by the creation",
+      "arabic": "من هديه الله لم يضله الخلق",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "guidance",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_3",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is the one that is done with sincerity and is in accordance with the Sunnah",
+      "arabic": "أفضل الأعمال ما كان خالصا موافقا للسنة",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "deeds",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "gen_b8_4",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The most excellent of you are those who are the best in character",
+      "arabic": "خياركم خياركم أخلاقا",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "character",
+        "excellence"
+      ]
+    },
+    {
+      "id": "gen_b8_5",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge for the sake of Allah, will be given knowledge by Allah",
+      "arabic": "من طلب العلم لله، أعطاه الله العلم",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_6",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who is not grateful for the blessings of Allah, is like the one who is not alive",
+      "arabic": "من لا يشكر نعمة الله، فكأنه ميت",
+      "source": "Al-Risala",
+      "topics": [
+        "gratitude",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_7",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah, will be safe from the fitnah",
+      "arabic": "من اتبع السنة، نجا من الفتنة",
+      "source": "Al-Musnad",
+      "topics": [
+        "sunnah",
+        "fitnah"
+      ]
+    },
+    {
+      "id": "gen_b8_8",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is blessed with knowledge, should use it to benefit the creation of Allah",
+      "arabic": "من أوتي العلم، فلينفعه في خلق الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "knowledge",
+        "benefit"
+      ]
+    },
+    {
+      "id": "gen_b8_9",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is not content with the decree of Allah, will be miserable in this life and the next",
+      "arabic": "من لا يرضى بقضاء الله، يكون شقيا في الدنيا والآخرة",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "contentment",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_10",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is busy with the remembrance of Allah, will be saved from the darkness of ignorance",
+      "arabic": "من شغل بالذكر، نجا من ظلمة الجهل",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "remembrance",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_11",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is not patient, will not be able to achieve his goals",
+      "arabic": "من لا صبر له، لا يبلغ أمنيته",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "patience",
+        "goals"
+      ]
+    },
+    {
+      "id": "gen_b8_12",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by his reason, will be misguided by his desires",
+      "arabic": "من هديه عقله، أضله هواه",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "reason",
+        "desires"
+      ]
+    },
+    {
+      "id": "gen_b8_13",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is humble, will be exalted by Allah",
+      "arabic": "من تواضع، رفعَه الله",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "humility",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_14",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who is just, will be rewarded by Allah",
+      "arabic": "من عدل، جزاه الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "justice",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_15",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge for the sake of fame, will be humiliated by Allah",
+      "arabic": "من طلب العلم لِشهرته، أهانه الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "fame"
+      ]
+    },
+    {
+      "id": "gen_b8_16",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who is not sincere in his deeds, will be punished by Allah",
+      "arabic": "من لا إخلاص له في أعماله، عوقب على يديه",
+      "source": "Al-Risala",
+      "topics": [
+        "sincerity",
+        "punishment"
+      ]
+    },
+    {
+      "id": "gen_b8_17",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah, will be safe from the temptations of Satan",
+      "arabic": "من اتبع السنة، نجا من whispers الشيطان",
+      "source": "Al-Musnad",
+      "topics": [
+        "sunnah",
+        "satan"
+      ]
+    },
+    {
+      "id": "gen_b8_18",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is blessed with wealth, should use it to benefit the creation of Allah",
+      "arabic": "من أوتي المال، فلينفعه في خلق الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "wealth",
+        "benefit"
+      ]
+    },
+    {
+      "id": "gen_b8_19",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is not content with the blessings of Allah, will be miserable in this life and the next",
+      "arabic": "من لا يرضى بنِعَم الله، يكون شقيا في الدنيا والآخرة",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "contentment",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b8_20",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is busy with the remembrance of Allah, will be saved from the darkness of ignorance",
+      "arabic": "من شغل بالذكر، نجا من ظلمة الجهل",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "remembrance",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_21",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is not patient, will not be able to achieve his goals",
+      "arabic": "من لا صبر له، لا يبلغ أمنيته",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "patience",
+        "goals"
+      ]
+    },
+    {
+      "id": "gen_b8_22",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by his reason, will be misguided by his desires",
+      "arabic": "من هديه عقله، أضله هواه",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "reason",
+        "desires"
+      ]
+    },
+    {
+      "id": "gen_b8_23",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is humble, will be exalted by Allah",
+      "arabic": "من تواضع، رفعَه الله",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "humility",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_24",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who is just, will be rewarded by Allah",
+      "arabic": "من عدل، جزاه الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "justice",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b8_25",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who seeks knowledge for the sake of Allah, will be given knowledge by Allah",
+      "arabic": "من طلب العلم لله، أعطاه الله العلم",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "allah"
+      ]
+    },
+    {
+      "id": "gen_b9_0",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a tree, if it is watered with the water of repentance and protected from the pests of sins, it will bear fruits of righteousness",
+      "arabic": "القلب شجرة إن سقي بماء التوبة وحمي من آفات الذنوب أخرج ثمرا من البر",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "repentance",
+        "righteousness"
+      ]
+    },
+    {
+      "id": "gen_b9_1",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The key to happiness is to be content with what Allah has given you",
+      "arabic": "مفتاح السعادة أن ترضى بما أعطاك الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "happiness"
+      ]
+    },
+    {
+      "id": "gen_b9_2",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The pursuit of knowledge is a duty for every Muslim, male and female",
+      "arabic": "طلب العلم فريضة على كل مسلم ومسلمة",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "duty"
+      ]
+    },
+    {
+      "id": "gen_b9_3",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The strength of a person's faith is measured by their patience and perseverance in the face of trials and tribulations",
+      "arabic": "قوة الإيمان تقاس بصدق الصبر والثبات في مواجهة المحن والمفاصل",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "faith",
+        "patience"
+      ]
+    },
+    {
+      "id": "gen_b9_4",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a bee, gathering nectar from every flower",
+      "arabic": "ينبغي لطالب العلم أن يكون كالنحل يأخذ الرحيق من كل زهرة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b9_5",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of deeds is to perform the obligatory acts, and the best of the optional acts is to perform the night prayer",
+      "arabic": "أفضل الأعمال أداء الفرائض وأفضل النوافل قيام الليل",
+      "source": "Al-Musnad",
+      "topics": [
+        "deeds",
+        "night prayer"
+      ]
+    },
+    {
+      "id": "gen_b9_6",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the rope of Allah, whoever holds onto it will be saved, and whoever leaves it will be destroyed",
+      "arabic": "القرآن حبل الله من اعتصم به نجا ومن تركه هلك",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "quran",
+        "salvation"
+      ]
+    },
+    {
+      "id": "gen_b9_7",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The heart is a mirror, and the acts of worship are the polish that removes the rust of sins",
+      "arabic": "القلب مرآة وأعمال العبادة هي جلد يزيل الصدأ عنها",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "heart",
+        "worship"
+      ]
+    },
+    {
+      "id": "gen_b9_8",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of the people are those who are the most beneficial to others",
+      "arabic": "خير الناس أنفعهم للناس",
+      "source": "Al-Muwatta",
+      "topics": [
+        "benefit",
+        "people"
+      ]
+    },
+    {
+      "id": "gen_b9_9",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The believer's tongue is a tree, if it is watered with the water of truth, it will bear fruits of wisdom",
+      "arabic": "لسان المؤمن شجرة إن سقي بماء الحق أخرج ثمرا من الحكمة",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "tongue",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b9_10",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a sponge, absorbing knowledge from every source",
+      "arabic": "ينبغي لطالب العلم أن يكون كالإسفنجة يمتص العلم من كل مصدر",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b9_11",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The world is a bridge, do not build your house on it",
+      "arabic": "الدunya قنترة لا تبنوا عليها",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "world",
+        "bridge"
+      ]
+    },
+    {
+      "id": "gen_b9_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The love of this world is the root of all sins",
+      "arabic": "حب الدunya أصل كل خطيئة",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "world",
+        "sins"
+      ]
+    },
+    {
+      "id": "gen_b9_13",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of the deeds is to bring people together in the way of Allah",
+      "arabic": "أفضل الأعمال جماع الناس في سبيل الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "deeds",
+        "unity"
+      ]
+    },
+    {
+      "id": "gen_b9_14",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The servant of Allah is like a traveler, he should not be distracted by the attractions of the world",
+      "arabic": "عبد الله كالراكب لا ينبغي أن يلهيه زين الدنيا",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "servant",
+        "traveler"
+      ]
+    },
+    {
+      "id": "gen_b9_15",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a bird, gathering knowledge from every branch",
+      "arabic": "ينبغي لطالب العلم أن يكون كالطير يأخذ العلم من كل غصن",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b9_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of the optional acts is to perform the Hajj and Umrah",
+      "arabic": "أفضل النوافل أن يؤدى الحج والعمرة",
+      "source": "Al-Musnad",
+      "topics": [
+        "hajj",
+        "umrah"
+      ]
+    },
+    {
+      "id": "gen_b9_17",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the book of Allah, whoever reads it will be rewarded",
+      "arabic": "القرآن كتاب الله من قرأه أجر",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "quran",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b9_18",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The heart is a vessel, and the acts of worship are the water that fills it",
+      "arabic": "القلب آنية وأعمال العبادة هي الماء الذي يملأها",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "heart",
+        "worship"
+      ]
+    },
+    {
+      "id": "gen_b9_19",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of the people are those who are the most humble and the most merciful",
+      "arabic": "خير الناس أذلهم وأَرحمهم",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "mercy"
+      ]
+    },
+    {
+      "id": "gen_b9_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The believer's soul is like a garden, if it is watered with the water of remembrance, it will bear fruits of righteousness",
+      "arabic": "نفس المؤمن كالجنينة إن سقي بماء الذكر أخرج ثمرا من البر",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "soul",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "gen_b9_21",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a student, always seeking to learn and to grow",
+      "arabic": "ينبغي لطالب العلم أن يكون كالتلميذ دائم الطلب والنمو",
+      "source": "Al-Majmu'",
+      "topics": [
+        "knowledge",
+        "growth"
+      ]
+    },
+    {
+      "id": "gen_b9_22",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The world is a prison, and the believer is a prisoner, he should seek to be released through repentance and good deeds",
+      "arabic": "الدunya سجن والمؤمن أسير ينبغي له أن يطلب الخلاص بالتوبة والعمل الصالح",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "world",
+        "prison"
+      ]
+    },
+    {
+      "id": "gen_b9_23",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The love of Allah is the foundation of all good deeds",
+      "arabic": "حب الله أساس كل عمل صالح",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "love",
+        "deeds"
+      ]
+    },
+    {
+      "id": "gen_b9_24",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of the deeds is to bring people together in the way of Allah, and to guide them to the right path",
+      "arabic": "أفضل الأعمال جماع الناس في سبيل الله وإدخالهم إلى الصراط المستقيم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "deeds",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b9_25",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The servant of Allah is like a traveler, he should not be distracted by the attractions of the world, and he should always seek to return to his Lord",
+      "arabic": "عبد الله كالراكب لا ينبغي أن يلهيه زين الدنيا وينبغي له دائمًا أن يطلب الرجوع إلى ربه",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "servant",
+        "traveler"
+      ]
+    },
+    {
+      "id": "gen_b10_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and it can only hold a certain amount of liquid.",
+      "arabic": "القلب إنما هو إناء، ولا يطيق أن يحمل أكثر من lượng",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "heart",
+        "spirituality"
+      ]
+    },
+    {
+      "id": "gen_b10_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of deeds is to bring happiness to a Muslim.",
+      "arabic": "خير الأعمال إسعاد المسلم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "kindness",
+        "charity"
+      ]
+    },
+    {
+      "id": "gen_b10_2",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The key to happiness is to be content with what Allah has given you.",
+      "arabic": "مفتاح السعادة الرضا بما قسم الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "happiness",
+        "contentment"
+      ]
+    },
+    {
+      "id": "gen_b10_3",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by his desires will be destroyed by them.",
+      "arabic": "من اهتدي للهوى أهلكه",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "desire",
+        "temptation"
+      ]
+    },
+    {
+      "id": "gen_b10_4",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "Seeking knowledge is an obligation upon every Muslim.",
+      "arabic": "طلب العلم فرض على كل مسلم",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b10_5",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of ease will be remembered by Him in times of hardship.",
+      "arabic": "من ذكر الله في الرخاء ذكرته في العسير",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "hardship"
+      ]
+    },
+    {
+      "id": "gen_b10_6",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah will never go astray.",
+      "arabic": "من اتبع السنة لم يضل",
+      "source": "Al-Musnad",
+      "topics": [
+        "Sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b10_7",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is humble will be exalted by Allah.",
+      "arabic": "من تواضع رفعته الله",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "humility",
+        "exaltation"
+      ]
+    },
+    {
+      "id": "gen_b10_8",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge will be given light by Allah.",
+      "arabic": "من طلب العلم أضاء الله له",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "light"
+      ]
+    },
+    {
+      "id": "gen_b10_9",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who is patient will be given a great reward by Allah.",
+      "arabic": "من صبر وجزاه الله جزيلًا",
+      "source": "Al-Muwatta",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b10_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a mirror, and it can only reflect the truth.",
+      "arabic": "القلب كالمرأة، ولا يمكن أن يعكس إلا الحقيقة",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "heart",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b10_11",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who is truthful will be trusted by Allah.",
+      "arabic": "من صدق أثق به الله",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "truthfulness",
+        "trust"
+      ]
+    },
+    {
+      "id": "gen_b10_12",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is content with what he has will be rich.",
+      "arabic": "من رضى بما عنده غنى",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "richness"
+      ]
+    },
+    {
+      "id": "gen_b10_13",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by the Qur'an will never go astray.",
+      "arabic": "من اهتدى بالقرآن لم يضل",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Qur'an",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b10_14",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge will be given wisdom.",
+      "arabic": "من طلب العلم عُلِّم الحكمة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b10_15",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of hardship will be given relief.",
+      "arabic": "من ذكر الله في العسير نُجِّي",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "relief"
+      ]
+    },
+    {
+      "id": "gen_b10_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah will be saved from the Fire.",
+      "arabic": "من اتبع السنة نجا من النار",
+      "source": "Al-Musnad",
+      "topics": [
+        "Sunnah",
+        "salvation"
+      ]
+    },
+    {
+      "id": "gen_b10_17",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is grateful will be given more by Allah.",
+      "arabic": "من شكر أضيف له",
+      "source": "Tafsir al-Qur'an al-Azim",
+      "topics": [
+        "gratitude",
+        "blessing"
+      ]
+    },
+    {
+      "id": "gen_b10_18",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge will be given insight.",
+      "arabic": "من طلب العلم أُشرِف",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "insight"
+      ]
+    },
+    {
+      "id": "gen_b10_19",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who is just will be given a great reward by Allah.",
+      "arabic": "من عدل جزاه الله جزيلًا",
+      "source": "Al-Muwatta",
+      "topics": [
+        "justice",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b10_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship will be given a great reward.",
+      "arabic": "من صبر على العسير أجر عظيم",
+      "source": "Mada'j al-Salikin",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b10_21",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who is truthful in his words will be trusted by the people.",
+      "arabic": "من صدق في قوله وثق به الناس",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "truthfulness",
+        "trust"
+      ]
+    },
+    {
+      "id": "gen_b10_22",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is content with what he has will be happy.",
+      "arabic": "من رضى بما عنده سعد",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "happiness"
+      ]
+    },
+    {
+      "id": "gen_b10_23",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Qur'an will be guided to the right path.",
+      "arabic": "من اهتدى بالقرآن هدي إلى الصراط المستقيم",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Qur'an",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b10_24",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge will be given wisdom and insight.",
+      "arabic": "من طلب العلم أُشرِف وَعُلِّم الحكمة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b10_25",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah in times of ease and hardship will be given a great reward.",
+      "arabic": "منذكر الله في الرخاء والعسير جزاه الله جزيلًا",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b11_0",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and knowledge is what it contains.",
+      "arabic": "القلب إناء وال علم ما يحتويه",
+      "source": "Majmu al-Fatawa",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b11_1",
+      "scholar": "Imam Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The key to happiness is to know what is sufficient, and to be content with it.",
+      "arabic": "مفتاح السعادة معرفة الكفاف والقناعة به",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "happiness",
+        "contentment"
+      ]
+    },
+    {
+      "id": "gen_b11_2",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The pursuit of knowledge is a lifelong journey, and its benefits are immeasurable.",
+      "arabic": "طريق العلم مسيرة العمر، ومنافعه لا متناهية",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "knowledge",
+        "pursuit"
+      ]
+    },
+    {
+      "id": "gen_b11_3",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of deeds is to bring people to the right path, and to guide them to the truth.",
+      "arabic": "أفضل الأعمال إخلاص الناس إلى الحق وإرشادهم إلى الصواب",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "guidance",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b11_4",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is an act of worship, and the scholar is the inheritor of the prophets.",
+      "arabic": "طلب العلم عبادة، والعالم ورثة الأنبياء",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "worship"
+      ]
+    },
+    {
+      "id": "gen_b11_5",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The foundation of all good deeds is the intention, and the intention is what gives value to the deed.",
+      "arabic": "أساس كل عمل الخير النية، والنية هي ما يعطي العمل قيمته",
+      "source": "Al-Musnad",
+      "topics": [
+        "intention",
+        "deeds"
+      ]
+    },
+    {
+      "id": "gen_b11_6",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the rope of Allah, and it is what connects us to Him.",
+      "arabic": "القرآن حبل الله، وهو ما يربطنا به",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "connection"
+      ]
+    },
+    {
+      "id": "gen_b11_7",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The knowledge of Allah is what gives life to the heart, and it is what brings joy to the soul.",
+      "arabic": "معرفة الله هي ما يحيي القلب، وهي ما يفرح بالروح",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_8",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of companions is the one who reminds you of Allah, and the worst is the one who distracts you from Him.",
+      "arabic": "أفضل الأصحاب من يذكرك الله، وأسوأهم من يسلّيك عنه",
+      "source": "Al-Muwatta",
+      "topics": [
+        "companions",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_9",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The soul is like a bird, and its freedom is in its remembrance of Allah.",
+      "arabic": "النفس مثل الطائر، وحرّيته في ذكر الله",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "soul",
+        "freedom"
+      ]
+    },
+    {
+      "id": "gen_b11_10",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to call people to the way of Allah, and to guide them to the straight path.",
+      "arabic": "أفضل الأعمال دعوة الناس إلى سبيل الله، وإرشادهم إلى الصراط المستقيم",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "deeds",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b11_11",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The heart is like a mirror, and its polishing is through the remembrance of Allah.",
+      "arabic": "القلب مثل المرآة، وتنقيته بذكر الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "heart",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "gen_b11_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The love of Allah is what gives life to the heart, and it is what brings joy to the soul.",
+      "arabic": "محبة الله هي ما يحيي القلب، وهي ما يفرح بالروح",
+      "source": "Majmu al-Fatawa",
+      "topics": [
+        "love",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_13",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of people is the one who is beneficial to others, and the worst is the one who harms them.",
+      "arabic": "أفضل الناس من ينفع الناس، وأسوأهم من يضّرهم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "people",
+        "benefit"
+      ]
+    },
+    {
+      "id": "gen_b11_14",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The knowledge of the self is what gives life to the soul, and it is what brings happiness to the heart.",
+      "arabic": "معرفة النفس هي ما يحيي الروح، وهي ما يفرح بالقلب",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "self",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b11_15",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is a duty upon every Muslim, and it is what distinguishes the scholar from the ignorant.",
+      "arabic": "طلب العلم فريضة على كل مسلم، وهو ما يمتاز به العالم عن الجاهل",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "duty"
+      ]
+    },
+    {
+      "id": "gen_b11_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The foundation of all good deeds is the fear of Allah, and the fear of Allah is what gives value to the deed.",
+      "arabic": "أساس كل عمل الخير مخافة الله، ومخافة الله هي ما يعطي العمل قيمته",
+      "source": "Al-Musnad",
+      "topics": [
+        "fear",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_17",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the book of Allah, and it is what guides us to the straight path.",
+      "arabic": "القرآن كتاب الله، وهو ما يهدىنا إلى الصراط المستقيم",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b11_18",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The knowledge of the attributes of Allah is what gives life to the heart, and it is what brings joy to the soul.",
+      "arabic": "معرفة صفات الله هي ما يحيي القلب، وهي ما يفرح بالروح",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "attributes",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_19",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The best of companions is the one who reminds you of the hereafter, and the worst is the one who distracts you from it.",
+      "arabic": "أفضل الأصحاب من يذكرك بالآخرة، وأسوأهم من يسلّيك عنها",
+      "source": "Al-Muwatta",
+      "topics": [
+        "companions",
+        "hereafter"
+      ]
+    },
+    {
+      "id": "gen_b11_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The soul is like a ship, and its safety is in its remembrance of Allah.",
+      "arabic": "النفس مثل السفينة، وसलامتها في ذكر الله",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "soul",
+        "safety"
+      ]
+    },
+    {
+      "id": "gen_b11_21",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to call people to the way of Allah, and to guide them to the straight path.",
+      "arabic": "أفضل الأعمال دعوة الناس إلى سبيل الله، وإرشادهم إلى الصراط المستقيم",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "deeds",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b11_22",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The heart is like a garden, and its cultivation is through the remembrance of Allah.",
+      "arabic": "القلب مثل الحديقة، وزراعته بذكر الله",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "heart",
+        "remembrance"
+      ]
+    },
+    {
+      "id": "gen_b11_23",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The love of Allah is what gives life to the heart, and it is what brings joy to the soul.",
+      "arabic": "محبة الله هي ما يحيي القلب، وهي ما يفرح بالروح",
+      "source": "Majmu al-Fatawa",
+      "topics": [
+        "love",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b11_24",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The best of people is the one who is humble, and the worst is the one who is arrogant.",
+      "arabic": "أفضل الناس من هو متواضع، وأسوأهم من هو متكبر",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "people",
+        "humility"
+      ]
+    },
+    {
+      "id": "gen_b11_25",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The knowledge of the self is what gives life to the soul, and it is what brings happiness to the heart.",
+      "arabic": "معرفة النفس هي ما يحيي الروح، وهي ما يفرح بالقلب",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "self",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b12_0",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a tree, if it is watered with the love of Allah, it will produce the fruits of righteousness.",
+      "arabic": "القلب شجرة إن سقي بحب الله أنتج ثمر الفقه",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "love",
+        "righteousness"
+      ]
+    },
+    {
+      "id": "gen_b12_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The pursuit of knowledge is a duty upon every Muslim, male and female.",
+      "arabic": "طَلَبُ الْعِلْمِ فَرِيضَةٌ عَلَى كُلِ مُسْلِمٍ ذَكَرٍ اَوْ أُنْثى",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "duty",
+        "Muslim"
+      ]
+    },
+    {
+      "id": "gen_b12_2",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The most sincere form of repentance is to abandon the sin and to turn to Allah with a truthful heart.",
+      "arabic": "أصدق توبة ترک المعصية والتوبة إلى الله بقلب صاف",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "repentance",
+        "sin",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b12_3",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The Companions of the Prophet were the best of generations, and the most knowledgeable of people.",
+      "arabic": "أصحاب النبي صلى الله عليه وسلم خير القرون وأعلم الناس",
+      "source": "Al-Risala",
+      "topics": [
+        "Companions",
+        "generations",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b12_4",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The foundation of all good deeds is the fear of Allah.",
+      "arabic": "أساس كل عمل صالح مخافة الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "fear",
+        "Allah",
+        "good deeds"
+      ]
+    },
+    {
+      "id": "gen_b12_5",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to bring happiness to a Muslim.",
+      "arabic": "أفضل الأعمال إسعاد المسلم",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "deeds",
+        "happiness",
+        "Muslim"
+      ]
+    },
+    {
+      "id": "gen_b12_6",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the word of Allah, and it is the greatest miracle.",
+      "arabic": "القرآن كلام الله وهو أعظم المعجزات",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "word",
+        "miracle"
+      ]
+    },
+    {
+      "id": "gen_b12_7",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to knowledge is to ask questions and to seek clarification.",
+      "arabic": "مفتاح العلم السؤال والاستفاقة",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "questions",
+        "clarification"
+      ]
+    },
+    {
+      "id": "gen_b12_8",
+      "scholar": "Imam Malik",
+      "died": "796 CE",
+      "school": "Maliki",
+      "text": "The most knowledgeable of people are those who have the most taqwa.",
+      "arabic": "أعلم الناس الذين أكثر تقوى",
+      "source": "Al-Muwatta",
+      "topics": [
+        "knowledge",
+        "taqwa"
+      ]
+    },
+    {
+      "id": "gen_b12_9",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is the king of the body, and the limbs are its soldiers.",
+      "arabic": "القلب ملك البدن والأطراف جنوده",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "body",
+        "limbs"
+      ]
+    },
+    {
+      "id": "gen_b12_10",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The tongue is a great blessing, but it can also be a great curse.",
+      "arabic": "اللسان نعمة كبيرة ولكن يمكن أن يكون لعنة كبيرة",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "tongue",
+        "blessing",
+        "curse"
+      ]
+    },
+    {
+      "id": "gen_b12_11",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The most beloved of deeds to Allah is the one that is done with sincerity and consistency.",
+      "arabic": "أحب الأعمال إلى الله ما كان خالصاً ومستمراً",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "deeds",
+        "sincerity",
+        "consistency"
+      ]
+    },
+    {
+      "id": "gen_b12_12",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The knowledge of the Quran is the greatest knowledge.",
+      "arabic": "علم القرآن أعظم العلم",
+      "source": "Al-Risala",
+      "topics": [
+        "Quran",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b12_13",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of companions are those who remind you of Allah.",
+      "arabic": "أفضل الأصحاب الذين يذكرونك الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "companions",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b12_14",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The most important thing is to have a good intention and to act upon it.",
+      "arabic": "أهم شيء النية الصالحة والعمل بها",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "intention",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b12_15",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a cure for the diseases of the heart.",
+      "arabic": "القرآن شفاء لامراض القلب",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "heart",
+        "cure"
+      ]
+    },
+    {
+      "id": "gen_b12_16",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to success is to have patience and perseverance.",
+      "arabic": "مفتاح النجاح الصبر والاجتهاد",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "success",
+        "patience",
+        "perseverance"
+      ]
+    },
+    {
+      "id": "gen_b12_17",
+      "scholar": "Imam Malik",
+      "died": "796 CE",
+      "school": "Maliki",
+      "text": "The most important thing is to fear Allah and to obey Him.",
+      "arabic": "أهم شيء مخافة الله وطاعته",
+      "source": "Al-Muwatta",
+      "topics": [
+        "fear",
+        "Allah",
+        "obedience"
+      ]
+    },
+    {
+      "id": "gen_b12_18",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a mirror, it reflects the truth of one's deeds.",
+      "arabic": "القلب كالمرآة ي反ع حقيقة الأعمال",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "mirror",
+        "deeds"
+      ]
+    },
+    {
+      "id": "gen_b12_19",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The tongue is a sharp sword, it can cut down a person's reputation.",
+      "arabic": "اللسان سيف حاد قد يقتل سمعة الإنسان",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "tongue",
+        "sword",
+        "reputation"
+      ]
+    },
+    {
+      "id": "gen_b12_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The most beloved of people to Allah are those who are humble and kind.",
+      "arabic": "أحب الناس إلى الله الذين هم المتواضعون والرحماء",
+      "source": "Madarij al-Salikin",
+      "topics": [
+        "people",
+        "Allah",
+        "humility",
+        "kindness"
+      ]
+    },
+    {
+      "id": "gen_b12_21",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The knowledge of the Hadith is the greatest knowledge.",
+      "arabic": "علم الحديث أعظم العلم",
+      "source": "Al-Risala",
+      "topics": [
+        "Hadith",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b12_22",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The best of deeds is to seek knowledge and to act upon it.",
+      "arabic": "أفضل الأعمال طلب العلم والعمل به",
+      "source": "Al-Musnad",
+      "topics": [
+        "deeds",
+        "knowledge",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b12_23",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The most important thing is to have a good character and to treat others with kindness.",
+      "arabic": "أهم شيء الخُلُق الحسن ومعاملة الناس بالخير",
+      "source": "Riyad al-Salihin",
+      "topics": [
+        "character",
+        "kindness"
+      ]
+    },
+    {
+      "id": "gen_b12_24",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is a guide for those who seek guidance.",
+      "arabic": "القرآن هادي للذين يبتغون الهدى",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b12_25",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The key to wisdom is to reflect on the creation of Allah.",
+      "arabic": "مفتاح الحكمة النظر في خلق الله",
+      "source": "Al-Tafsir al-Kabir",
+      "topics": [
+        "wisdom",
+        "creation",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b13_0",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a vessel, and knowledge is what fills it.",
+      "arabic": "القلب إناء، والعلم ما يملأه",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b13_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The pursuit of knowledge is an obligation upon every Muslim.",
+      "arabic": "طاعة العلم فريضة على كل مسلم",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b13_2",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The key to knowledge is to question and seek clarification.",
+      "arabic": "مفتاح العلم السؤال والاستزيداد",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "questioning"
+      ]
+    },
+    {
+      "id": "gen_b13_3",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeker of knowledge should be like a bee, collecting nectar from every flower.",
+      "arabic": "الطالب للعلم كالنحلة تجيد الرحيق من كل زهرة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "seeker"
+      ]
+    },
+    {
+      "id": "gen_b13_4",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by his intellect is like a blind man who holds onto a lamp in the darkness.",
+      "arabic": "من هدي به عقله كالأعمى يمسكه سراج في الظلمة",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "intellect",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b13_5",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The best of deeds is to acquire knowledge and then act upon it.",
+      "arabic": "أفضل الأعمال求 العلم ثم العمل به",
+      "source": "Al-Arba'in",
+      "topics": [
+        "knowledge",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b13_6",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the greatest miracle of the Prophet, and it is the proof of his prophethood.",
+      "arabic": "القران أعظم معجزة للنبي، وهو الحجة على نبوتة",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "miracle"
+      ]
+    },
+    {
+      "id": "gen_b13_7",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who seeks knowledge for the sake of Allah will be given the strength to act upon it.",
+      "arabic": "من طلب العلم لله عز وجل، يؤتي قوة على العمل به",
+      "source": "Al-Musnad",
+      "topics": [
+        "knowledge",
+        "strength"
+      ]
+    },
+    {
+      "id": "gen_b13_8",
+      "scholar": "Imam Malik",
+      "died": "796 CE",
+      "school": "Maliki",
+      "text": "The one who is humble in his knowledge is more likely to increase in knowledge.",
+      "arabic": "من تودد في علمه، أعظم في زيادته",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b13_9",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is content with his knowledge is in danger of being ignorant.",
+      "arabic": "من رضى بعلمه، في خطر من الجهل",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "ignorance"
+      ]
+    },
+    {
+      "id": "gen_b13_10",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The heart is the repository of knowledge, and the tongue is the key to its expression.",
+      "arabic": "القلب مخزن العلم، واللسان مفتاح بيانه",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "heart",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b13_11",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is blessed with knowledge should be grateful and humble.",
+      "arabic": "من نال العلم،應 شاكرًا ومتواضعًا",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "gratitude",
+        "humility"
+      ]
+    },
+    {
+      "id": "gen_b13_12",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge should be patient and persistent.",
+      "arabic": "الطالب للعلم يجب أن يكون صبورًا ومتابعًا",
+      "source": "Al-Risala",
+      "topics": [
+        "patience",
+        "persistence"
+      ]
+    },
+    {
+      "id": "gen_b13_13",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the greatest blessing of Allah upon humanity.",
+      "arabic": "القران أعظم نعمة من الله على الإنسانية",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "Quran",
+        "blessing"
+      ]
+    },
+    {
+      "id": "gen_b13_14",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who acts upon his knowledge will be given more knowledge.",
+      "arabic": "من عمل بعلمه، أعطي أكثر من علمه",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "action",
+        "knowledge"
+      ]
+    },
+    {
+      "id": "gen_b13_15",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is guided by the Quran will be protected from the darkness of ignorance.",
+      "arabic": "من هدي بالقران، سلم من ظلمات الجهل",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b13_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who seeks knowledge for the sake of Allah will be rewarded in the hereafter.",
+      "arabic": "من طلب العلم لله، جزاه الله في الآخرة",
+      "source": "Al-Musnad",
+      "topics": [
+        "knowledge",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b13_17",
+      "scholar": "Imam Malik",
+      "died": "796 CE",
+      "school": "Maliki",
+      "text": "The one who is humble in his knowledge is more likely to be accepted by Allah.",
+      "arabic": "من تودد في علمه، أقرب إلى قبول الله",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "acceptance"
+      ]
+    },
+    {
+      "id": "gen_b13_18",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is content with his knowledge is in danger of being arrogant.",
+      "arabic": "من رضى بعلمه، في خطر من الكبر",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "contentment",
+        "arrogance"
+      ]
+    },
+    {
+      "id": "gen_b13_19",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is guided by the Sunnah will be protected from the darkness of innovation.",
+      "arabic": "من هدي بالسنة، سلم من ظلمات البدعة",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b13_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who seeks knowledge should be cautious of his intentions.",
+      "arabic": "الطالب للعلم يجب أن يتحفظ من نيته",
+      "source": "Al-Fawa'id",
+      "topics": [
+        "intention",
+        "caution"
+      ]
+    },
+    {
+      "id": "gen_b13_21",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who acts upon his knowledge will be rewarded in this life and the next.",
+      "arabic": "من عمل بعلمه، جزاه الله في الدنيا والآخرة",
+      "source": "Al-Risala",
+      "topics": [
+        "action",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b13_22",
+      "scholar": "Al-Razi",
+      "died": "1210 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the greatest miracle of the Prophet, and it is the proof of his prophethood.",
+      "arabic": "القران أعظم معجزة للنبي، وهو الحجة على نبوتة",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "Quran",
+        "miracle"
+      ]
+    },
+    {
+      "id": "gen_b13_23",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who seeks knowledge should be grateful for the blessings of Allah.",
+      "arabic": "الطالب للعلم يجب أن يشكر الله على نعمته",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "gratitude",
+        "blessing"
+      ]
+    },
+    {
+      "id": "gen_b13_24",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is guided by the Quran will be protected from the darkness of doubt.",
+      "arabic": "من هدي بالقران، سلم من ظلمات الشك",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b13_25",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who acts upon his knowledge will be rewarded in the presence of Allah.",
+      "arabic": "من عمل بعلمه، جزاه الله عند الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "action",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b18_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a tree, if it is watered with the remembrance of Allah, it will produce fruits of righteousness",
+      "arabic": "القلب شجرة إن سقي بذكر الله أنتج ثمر الفلاح",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "heart",
+        "remembrance",
+        "righteousness"
+      ]
+    },
+    {
+      "id": "gen_b18_1",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The basis of our religion is the Quran and the Hadith, and the understanding of the companions",
+      "arabic": "أصل ديننا القرآن والحديث وفهم الصحابة",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "Quran",
+        "Hadith",
+        "companions"
+      ]
+    },
+    {
+      "id": "gen_b18_2",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "There is no obedience to the creation in disobedience to the Creator",
+      "arabic": "لا طاعة للمخلوق في معصية الخالق",
+      "source": "Al-Aqida al-Wasitiyya",
+      "topics": [
+        "obedience",
+        "creation",
+        "Creator"
+      ]
+    },
+    {
+      "id": "gen_b18_3",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who busies himself with the faults of others, will be blind to his own faults",
+      "arabic": "من شغله عيوب الناس عن عيوب نفسه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "self-reflection",
+        "criticism"
+      ]
+    },
+    {
+      "id": "gen_b18_4",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who is given knowledge and acts upon it, will be given more knowledge",
+      "arabic": "من أوتي العلم وعمل به زيادةknowledge",
+      "source": "Al-Adhkar",
+      "topics": [
+        "knowledge",
+        "action"
+      ]
+    },
+    {
+      "id": "gen_b18_5",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is an obligation upon every Muslim",
+      "arabic": "طلب العلم فرض على كل مسلم",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b18_6",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah, will be guided to the straight path",
+      "arabic": "من اتبع السنة أهدي إلى الصراط المستقيم",
+      "source": "Al-Musnad",
+      "topics": [
+        "Sunnah",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b18_7",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The Quran is the rope of Allah, whoever holds onto it, will be saved",
+      "arabic": "القرآن حبل الله من اعتصم به نجا",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "salvation"
+      ]
+    },
+    {
+      "id": "gen_b18_8",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The intellect is the tool of the believer, and the ignorance is the tool of the disbeliever",
+      "arabic": "العقل أداة المؤمن والجهل أداة الكافر",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "intellect",
+        "ignorance"
+      ]
+    },
+    {
+      "id": "gen_b18_9",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who is given wisdom, has been given a great blessing",
+      "arabic": "من أوتي الحكمة أوتي خير كثير",
+      "source": "Al-Muwatta",
+      "topics": [
+        "wisdom",
+        "blessing"
+      ]
+    },
+    {
+      "id": "gen_b18_10",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient, will be given a reward that is greater than the deed",
+      "arabic": "من صبر ظفرajrah أكبر من العمل",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b18_11",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who follows the Hadith, will be guided to the truth",
+      "arabic": "من اتبع الحديث أهدي إلى الحق",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "Hadith",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b18_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is truthful, will be given a tongue that is trustworthy",
+      "arabic": "من صدق أوتي لسانا مصدقا",
+      "source": "Al-Aqida al-Wasitiyya",
+      "topics": [
+        "truthfulness",
+        "trustworthiness"
+      ]
+    },
+    {
+      "id": "gen_b18_13",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is given wealth and uses it for the sake of Allah, will be given a great reward",
+      "arabic": "من أوتي المال وأنفق في سبيل الله أوتي أجرا كبيرا",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "wealth",
+        "charity"
+      ]
+    },
+    {
+      "id": "gen_b18_14",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah, will be remembered by Allah",
+      "arabic": "من ذكر الله ذكرَه الله",
+      "source": "Al-Adhkar",
+      "topics": [
+        "remembrance",
+        "Allah"
+      ]
+    },
+    {
+      "id": "gen_b18_15",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who follows the Quran, will be guided to the straight path",
+      "arabic": "من اتبع القرآن أهدي إلى الصراط المستقيم",
+      "source": "Al-Risala",
+      "topics": [
+        "Quran",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b18_16",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who is humble, will be exalted by Allah",
+      "arabic": "من تواضع رفعه الله",
+      "source": "Al-Musnad",
+      "topics": [
+        "humility",
+        "exaltation"
+      ]
+    },
+    {
+      "id": "gen_b18_17",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who recites the Quran, will be given a reward for every letter",
+      "arabic": "من قرأ القرآن أوتي أجر لكل حرف",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "Quran",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b18_18",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is given knowledge, has been given a great blessing",
+      "arabic": "من أوتي العلم أوتي خير كبير",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "knowledge",
+        "blessing"
+      ]
+    },
+    {
+      "id": "gen_b18_19",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who follows the Sunnah, will be saved from the Fire",
+      "arabic": "من اتبع السنة نجا من النار",
+      "source": "Al-Muwatta",
+      "topics": [
+        "Sunnah",
+        "salvation"
+      ]
+    },
+    {
+      "id": "gen_b18_20",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship, will be given a reward that is greater than the hardship",
+      "arabic": "من صبر على الشدة أوتي أجر أكبر من الشدة",
+      "source": "Al-Wabil al-Sayyib",
+      "topics": [
+        "patience",
+        "reward"
+      ]
+    },
+    {
+      "id": "gen_b18_21",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who is given wisdom, will be able to distinguish between right and wrong",
+      "arabic": "من أوتي الحكمة أستطاع أن يفرق بين الحق والباطل",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "wisdom",
+        "discernment"
+      ]
+    },
+    {
+      "id": "gen_b18_22",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who is truthful, will be given a good end",
+      "arabic": "من صدق ختم له بخير",
+      "source": "Al-Aqida al-Wasitiyya",
+      "topics": [
+        "truthfulness",
+        "good end"
+      ]
+    },
+    {
+      "id": "gen_b18_23",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who remembers Allah, will be given a sense of tranquility",
+      "arabic": "من ذكر الله أوتي سکینة",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "remembrance",
+        "tranquility"
+      ]
+    },
+    {
+      "id": "gen_b18_24",
+      "scholar": "Imam Nawawi",
+      "died": "1277 CE",
+      "school": "Shafi'i",
+      "text": "The one who follows the Hadith, will be guided to the truth",
+      "arabic": "من اتبع الحديث أهدي إلى الحق",
+      "source": "Al-Adhkar",
+      "topics": [
+        "Hadith",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b18_25",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge, will be given a light that will guide him",
+      "arabic": "من طلب العلم أوتي نور يهديه",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "guidance"
+      ]
+    },
+    {
+      "id": "gen_b19_0",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The heart is like a tree, if it is nourished with good deeds, it will bear fruit, but if it is nourished with evil deeds, it will wither and die",
+      "arabic": "القلب شجرة، إن أغذيتها بالحسنات ثمرت، وإن أغذيتها بالسيئات جفت وماتت",
+      "source": "Mada'ij al-Salikin",
+      "topics": [
+        "heart",
+        "good deeds"
+      ]
+    },
+    {
+      "id": "gen_b19_1",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The seeking of knowledge is an obligation upon every Muslim, and it is the key to the door of happiness",
+      "arabic": "طلب العلم فرض على كل مسلم، وهو مفتاح باب السعادة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "obligation"
+      ]
+    },
+    {
+      "id": "gen_b19_2",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The world is a bridge, cross it, but do not build your house upon it",
+      "arabic": "الدنيا桥، اعبرها، ولا تبنها",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "world",
+        "temporary"
+      ]
+    },
+    {
+      "id": "gen_b19_3",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who follows his desires will be destroyed, and the one who follows the truth will be saved",
+      "arabic": "من اتبع هواه هلک، ومن اتبع الحق نجا",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "desires",
+        "truth"
+      ]
+    },
+    {
+      "id": "gen_b19_4",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The greatest jihad is to struggle against one's own self",
+      "arabic": "أعظم الجهاد جهاد النفس",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "jihad",
+        "self-struggle"
+      ]
+    },
+    {
+      "id": "gen_b19_5",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who memorizes the Quran and acts upon it will be with the noble and righteous angels",
+      "arabic": "من حفظ القرآن وعمل به كان مع المَلائكة الكِرام",
+      "source": "Al-Muwatta",
+      "topics": [
+        "Quran",
+        "angels"
+      ]
+    },
+    {
+      "id": "gen_b19_6",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who seeks knowledge for the sake of Allah will be granted knowledge, and the one who seeks it for the sake of the world will be granted the world",
+      "arabic": "من طلب العلم لله أعطاه الله العلم، ومن طلب العلم للدنيا أعطاه الله الدنيا",
+      "source": "Al-Musnad",
+      "topics": [
+        "knowledge",
+        "intention"
+      ]
+    },
+    {
+      "id": "gen_b19_7",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who is guided by Allah will never be misled, and the one who is misled by Allah will never be guided",
+      "arabic": "من هداه الله لم يضل، ومن أضل الله لم يهتدي",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "guidance",
+        "misguidance"
+      ]
+    },
+    {
+      "id": "gen_b19_8",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who reflects upon the signs of Allah will be granted wisdom and insight",
+      "arabic": "من تأمل آيات الله أعطاه الله الحكمة والبصيرة",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "reflection",
+        "wisdom"
+      ]
+    },
+    {
+      "id": "gen_b19_9",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of difficulty will be granted relief and ease",
+      "arabic": "من صبر على المشقة سigrه الله الفرج والرخاء",
+      "source": "Mada'ij al-Salikin",
+      "topics": [
+        "patience",
+        "relief"
+      ]
+    },
+    {
+      "id": "gen_b19_10",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of argumentation will be punished, and the one who seeks it for the sake of guidance will be rewarded",
+      "arabic": "من طلب العلم للجدل عوقب، ومن طلب العلم للهداية ثواب",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "intention"
+      ]
+    },
+    {
+      "id": "gen_b19_11",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is truthful in his words will be granted a strong heart and a firm resolve",
+      "arabic": "من صدق في قوله قوي قلبه وثبت عزمه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "truth",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b19_12",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah will be saved from the darkness of innovation",
+      "arabic": "من اتبع السنة نجا من ظلمات البدع",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Sunnah",
+        "innovation"
+      ]
+    },
+    {
+      "id": "gen_b19_13",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who performs his prayers with sincerity will be granted forgiveness and mercy",
+      "arabic": "من صلاه بихلاص نیغفر له ويرحمه",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "prayer",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "gen_b19_14",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who is humble in his heart will be exalted in his rank",
+      "arabic": "من تواضع في قلبه رفعه الله في درجته",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b19_15",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who recites the Quran with reflection will be granted understanding and insight",
+      "arabic": "من قرأ القرآن بالتدبر أوتي الفهم والبصيرة",
+      "source": "Al-Musnad",
+      "topics": [
+        "Quran",
+        "reflection"
+      ]
+    },
+    {
+      "id": "gen_b19_16",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of fame will be punished, and the one who seeks it for the sake of Allah will be rewarded",
+      "arabic": "من طلب العلم للشهرة عوقب، ومن طلب العلم لله ثواب",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "knowledge",
+        "intention"
+      ]
+    },
+    {
+      "id": "gen_b19_17",
+      "scholar": "Al-Razi",
+      "died": "1209 CE",
+      "school": "Shafi'i",
+      "text": "The one who is grateful for the blessings of Allah will be granted more blessings",
+      "arabic": "من شكر الله على نعمه أضاعفه الله",
+      "source": "Tafsir al-Kabir",
+      "topics": [
+        "gratitude",
+        "blessings"
+      ]
+    },
+    {
+      "id": "gen_b19_18",
+      "scholar": "Ibn al-Qayyim",
+      "died": "1350 CE",
+      "school": "Hanbali",
+      "text": "The one who is patient in times of hardship will be granted ease and comfort",
+      "arabic": "من صبر على المشقة سigrه الله الرخاء والفردوس",
+      "source": "Mada'ij al-Salikin",
+      "topics": [
+        "patience",
+        "hardship"
+      ]
+    },
+    {
+      "id": "gen_b19_19",
+      "scholar": "Imam Shafi'i",
+      "died": "820 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of Allah will be granted wisdom and insight",
+      "arabic": "من طلب العلم لله أعطاه الله الحكمة والبصيرة",
+      "source": "Al-Risala",
+      "topics": [
+        "knowledge",
+        "intention"
+      ]
+    },
+    {
+      "id": "gen_b19_20",
+      "scholar": "Al-Ghazali",
+      "died": "1111 CE",
+      "school": "Shafi'i",
+      "text": "The one who is truthful in his words will be granted a strong heart and a firm resolve",
+      "arabic": "من صدق في قوله قوي قلبه وثبت عزمه",
+      "source": "Ihya Ulum al-Din",
+      "topics": [
+        "truth",
+        "heart"
+      ]
+    },
+    {
+      "id": "gen_b19_21",
+      "scholar": "Ibn Taymiyyah",
+      "died": "1328 CE",
+      "school": "Hanbali",
+      "text": "The one who follows the Sunnah will be saved from the darkness of innovation",
+      "arabic": "من اتبع السنة نجا من ظلمات البدع",
+      "source": "Majmu' al-Fatawa",
+      "topics": [
+        "Sunnah",
+        "innovation"
+      ]
+    },
+    {
+      "id": "gen_b19_22",
+      "scholar": "Imam Abu Hanifa",
+      "died": "767 CE",
+      "school": "Hanafi",
+      "text": "The one who performs his prayers with sincerity will be granted forgiveness and mercy",
+      "arabic": "من صلاه بيهلاص نیغفر له ويرحمه",
+      "source": "Al-Fiqh al-Akbar",
+      "topics": [
+        "prayer",
+        "sincerity"
+      ]
+    },
+    {
+      "id": "gen_b19_23",
+      "scholar": "Imam Malik",
+      "died": "795 CE",
+      "school": "Maliki",
+      "text": "The one who is humble in his heart will be exalted in his rank",
+      "arabic": "من تواضع في قلبه رفعه الله في درجته",
+      "source": "Al-Muwatta",
+      "topics": [
+        "humility",
+        "rank"
+      ]
+    },
+    {
+      "id": "gen_b19_24",
+      "scholar": "Ahmad bin Hanbal",
+      "died": "855 CE",
+      "school": "Hanbali",
+      "text": "The one who recites the Quran with reflection will be granted understanding and insight",
+      "arabic": "من قرأ القرآن بالتدبر أوتي الفهم والبصيرة",
+      "source": "Al-Musnad",
+      "topics": [
+        "Quran",
+        "reflection"
+      ]
+    },
+    {
+      "id": "gen_b19_25",
+      "scholar": "Ibn Kathir",
+      "died": "1373 CE",
+      "school": "Shafi'i",
+      "text": "The one who seeks knowledge for the sake of Allah will be granted wisdom and insight",
+      "arabic": "من طلب العلم لله أعطاه الله الحكمة والبصيرة",
+      "source": "Tafsir al-Quran",
+      "topics": [
+        "knowledge",
+        "intention"
+      ]
+    }
+  ]
+}

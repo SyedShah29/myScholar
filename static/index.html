@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>myScholar — Islamic AI Assistant</title>
+  <meta name="description" content="myScholar: A scholarly Islamic AI assistant grounded in Quran, Hadith, and authentic scholarship. Madhab-aware, citation-validated, and streaming." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Outfit:wght@300;400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <div class="logo-block">
+          <svg class="logo-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H8a2 2 0 0 0-2 2v16a2 2 0 0 1-2 2Zm0 0a2 2 0 0 1-2-2v-9c0-1.1.9-2 2-2h2"/><path d="M18 14h-8"/><path d="M15 18h-5"/><path d="M10 6h8v4h-8V6Z"/></svg>
+          <span class="logo-text">myScholar</span>
+        </div>
+        <button class="theme-toggle" id="themeToggle" title="Toggle dark/light mode" aria-label="Toggle theme">
+          <svg class="theme-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
+        </button>
+      </div>
+
+      <!-- Madhab Selector -->
+      <div class="sidebar-section">
+        <div class="section-label">Madhab</div>
+        <div class="madhab-pills" id="madhabPills" role="group" aria-label="Select madhab">
+          <button class="madhab-pill active" data-madhab="general" id="madhab-general">General</button>
+          <button class="madhab-pill" data-madhab="hanafi" id="madhab-hanafi">Hanafi</button>
+          <button class="madhab-pill" data-madhab="maliki" id="madhab-maliki">Maliki</button>
+          <button class="madhab-pill" data-madhab="shafii" id="madhab-shafii">Shafi'i</button>
+          <button class="madhab-pill" data-madhab="hanbali" id="madhab-hanbali">Hanbali</button>
+          <button class="madhab-pill" data-madhab="jafari" id="madhab-jafari">Ja'fari</button>
+        </div>
+      </div>
+
+      <!-- Calendar Widget -->
+      <div class="sidebar-section">
+        <div class="section-label">Islamic Calendar</div>
+        <div class="calendar-widget" id="calendarWidget">
+          <div class="hijri-date" id="hijriDate">
+            <span class="hijri-label">Hijri</span>
+            <span class="hijri-value" id="hijriValue">Loading...</span>
+          </div>
+          <div class="gregorian-date" id="gregorianDate">Loading...</div>
+          <div class="prayer-times" id="prayerTimes">
+            <div class="prayer-row"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:8px;"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg><span class="prayer-time" id="locationNote">Enable location for prayer times</span></div>
+          </div>
+          <button class="location-btn" id="locationBtn" aria-label="Get prayer times for my location">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg> Get Prayer Times
+          </button>
+          <div class="qibla-display" id="qiblaDisplay" style="display:none">
+            <div class="qibla-label">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:6px;"><circle cx="12" cy="12" r="10"/><polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/></svg> Qibla
+            </div>
+            <div class="qibla-compass" id="qiblaCompass">
+              <div class="compass-arrow" id="compassArrow">▲</div>
+            </div>
+            <div class="qibla-degrees" id="qiblaDegrees"></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Upcoming Events -->
+      <div class="sidebar-section" id="upcomingSection" style="display:none">
+        <div class="section-label">Upcoming Events</div>
+        <div class="events-list" id="eventsList"></div>
+      </div>
+
+      <!-- Session Controls -->
+      <div class="sidebar-footer">
+        <button class="new-chat-btn" id="newChatBtn" aria-label="Start new chat">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right:8px;"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/><line x1="9" y1="10" x2="15" y2="10"/><line x1="12" y1="7" x2="12" y2="13"/></svg>
+          New Conversation
+        </button>
+        <div class="session-info" id="sessionInfo"></div>
+      </div>
+    </aside>
+
+    <!-- MAIN CHAT AREA -->
+    <main class="main-content">
+      <!-- Top Bar -->
+      <header class="topbar">
+        <button class="sidebar-toggle" id="sidebarToggle" aria-label="Toggle sidebar">☰</button>
+        <div class="topbar-title">
+          <span class="topbar-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</span>
+        </div>
+        <div class="status-indicator" id="statusIndicator">
+          <span class="status-dot" id="statusDot"></span>
+          <span class="status-text" id="statusText">Connecting...</span>
+        </div>
+      </header>
+
+      <!-- Chat Messages -->
+      <div class="chat-window" id="chatWindow" role="log" aria-live="polite" aria-label="Chat messages">
+        <!-- Welcome Screen -->
+        <div class="welcome-screen" id="welcomeScreen">
+          <div class="welcome-bismillah">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</div>
+          <h1 class="welcome-title">myScholar</h1>
+          <p class="welcome-subtitle">Your Islamic AI companion — grounded in Quran, Hadith, and authentic scholarship</p>
+          <div class="starter-questions" id="starterQuestions">
+            <button class="starter-btn" data-q="What are the five pillars of Islam?">🕌 Five Pillars of Islam</button>
+            <button class="starter-btn" data-q="Explain the concept of Tawhid">☝️ Concept of Tawhid</button>
+            <button class="starter-btn" data-q="What does Islam say about seeking knowledge?">📚 Seeking Knowledge</button>
+            <button class="starter-btn" data-q="Teach me a dua for anxiety and grief">🤲 Dua for Anxiety</button>
+            <button class="starter-btn" data-q="What is the importance of Salah in Islam?">🙏 Importance of Salah</button>
+            <button class="starter-btn" data-q="Generate an Islamic geometric art image">🎨 Islamic Art</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Citation Panel (shows after first message) -->
+      <div class="citation-panel" id="citationPanel" style="display:none">
+        <div class="panel-tabs">
+          <button class="panel-tab active" data-tab="quran" id="tab-quran"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H20v20H6.5a2.5 2.5 0 0 1 0-5H20"/></svg> Quran</button>
+          <button class="panel-tab" data-tab="hadith" id="tab-hadith"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><line x1="10" y1="9" x2="8" y2="9"/></svg> Hadiths</button>
+          <button class="panel-tab" data-tab="dua" id="tab-dua"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10z"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg> Duas</button>
+        </div>
+        <div class="panel-content" id="panelContent"></div>
+      </div>
+
+      <!-- Input Area -->
+      <div class="input-area">
+        <div class="input-wrapper">
+          <textarea
+            class="chat-input"
+            id="chatInput"
+            placeholder="Ask anything about Islam — Quran, Hadith, fiqh, aqeedah, history..."
+            rows="1"
+            aria-label="Chat input"
+          ></textarea>
+          <div class="input-actions">
+            <button class="image-btn" id="imageBtn" title="Generate Islamic art" aria-label="Generate Islamic art"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2" ry="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg></button>
+            <button class="send-btn" id="sendBtn" aria-label="Send message">
+              <svg class="send-icon" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+            </button>
+          </div>
+        </div>
+        <div class="input-footer">
+          <span class="input-hint">Press Enter to send · Shift+Enter for new line</span>
+          <span class="madhab-badge" id="madhabBadge">General</span>
+        </div>
+      </div>
+    </main>
+
+    <!-- Image Modal -->
+    <div class="modal-overlay" id="imageModal" style="display:none" role="dialog" aria-modal="true">
+      <div class="modal-box">
+        <div class="modal-header">
+          <h3>🎨 Islamic Art Generator</h3>
+          <button class="modal-close" id="modalClose" aria-label="Close modal">✕</button>
+        </div>
+        <div class="modal-body">
+          <textarea class="modal-input" id="imagePromptInput" placeholder="Describe the art (e.g. 'Arabesque pattern in gold and emerald', 'Mosque interior with geometric tiles')..." rows="3"></textarea>
+          <div class="style-selector" id="styleSelector">
+            <button class="style-btn active" data-style="geometric">Geometric</button>
+            <button class="style-btn" data-style="calligraphy">Calligraphy</button>
+            <button class="style-btn" data-style="arabesque">Arabesque</button>
+            <button class="style-btn" data-style="miniature">Miniature</button>
+            <button class="style-btn" data-style="architectural">Architecture</button>
+          </div>
+          <button class="generate-btn" id="generateImageBtn">✨ Generate</button>
+          <div class="image-result" id="imageResult" style="display:none">
+            <img class="generated-image" id="generatedImage" alt="Generated Islamic art" />
+            <a class="download-link" id="downloadLink" download="myscholar-art.jpg" target="_blank">⬇️ Open Full Size</a>
+          </div>
+          <div class="image-loading" id="imageLoading" style="display:none">
+            <div class="spinner"></div>
+            <span>Generating Islamic art...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Source Modal -->
+    <div class="modal-overlay" id="sourceModal" style="display:none" role="dialog" aria-modal="true">
+      <div class="modal-box source-modal-box">
+        <div class="modal-header">
+          <h3 id="sourceModalTitle" style="font-family: var(--font-serif); font-size: 1.5rem; color: var(--accent-gold);">Source</h3>
+          <button class="modal-close" id="sourceModalClose" aria-label="Close modal">✕</button>
+        </div>
+        <div class="modal-body" style="padding-top: 1rem;">
+          <div id="sourceModalArabic" class="source-arabic" style="display:none; font-family: var(--font-arabic); font-size: 1.5rem; color: var(--text-arabic); text-align: center; margin-bottom: 1.5rem; line-height: 1.8;"></div>
+          <div id="sourceModalTransliteration" class="source-transliteration" style="display:none; color: var(--text-muted); font-style: italic; text-align: center; margin-bottom: 1.5rem; font-size: 0.95rem;"></div>
+          <div id="sourceModalText" class="source-text" style="font-size: 1.1rem; line-height: 1.7; color: var(--text-primary); margin-bottom: 1rem;"></div>
+          <div id="sourceModalAudioContainer" style="display:none; text-align: center; margin-bottom: 1.5rem;">
+            <button id="sourceModalAudioBtn" class="citation-audio-btn" style="padding: 8px 16px; font-size: 0.85rem;">▶ Play Recitation</button>
+          </div>
+          <div id="sourceModalCollection" class="source-collection" style="display:none; color: var(--accent-gold-light); font-size: 0.9rem; font-weight: 500; border-top: 1px solid var(--border-subtle); padding-top: 1rem;"></div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <script src="/static/app.js"></script>
+</body>
+</html>
