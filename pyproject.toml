@@ -2,6 +2,7 @@
 name = "myscholar"
 version = "0.1.0"
 description = "myScholar — Islamic AI Assistant with Quran/Hadith grounding, semantic search, and madhab-aware answering"
+authors = [{ name = "Syed Hasaan Shah" }]
 requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.115,<1.0",
