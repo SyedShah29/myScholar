@@ -8,6 +8,10 @@ from app.config import get_settings
 from app.models import ModerationResult
 from app.services import chroma_store, embeddings
 
+_KNOWN_FALSE_HADITH_PATH = (
+    Path(__file__).resolve().parent.parent / "data" / "known_false_hadith.json"
+)
+
 
 class IslamicModerator:
     def __init__(self) -> None:
@@ -54,7 +58,17 @@ class IslamicModerator:
         )
 
         # False hadith fallback
-        self._false_hadith: list[dict[str, object]] = []
+        self._false_hadith: list[dict[str, object]] = self._load_known_false_hadith()
+
+    @staticmethod
+    def _load_known_false_hadith() -> list[dict[str, object]]:
+        """Load the curated list so detection also works without a vector store."""
+        try:
+            payload = json.loads(_KNOWN_FALSE_HADITH_PATH.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            return []
+        entries = payload.get("fabricated_hadith", [])
+        return entries if isinstance(entries, list) else []
 
     def evaluate_chat(self, text: str) -> ModerationResult:
         # Scripture manipulation
@@ -135,7 +149,25 @@ class IslamicModerator:
         return chat_result
 
     def find_false_hadith(self, text: str) -> list[dict[str, object]]:
-        """Detect references to known fabricated or weak hadith using multilingual semantic search."""
+        """Detect references to known fabricated or weak hadith."""
+        normalized = text.casefold()
+        for entry in self._false_hadith:
+            aliases = entry.get("aliases")
+            phrases = [str(entry.get("phrase", "")), *([str(a) for a in aliases] if isinstance(aliases, list) else [])]
+            if any(phrase and phrase.casefold() in normalized for phrase in phrases):
+                return [
+                    {
+                        "phrase": text,
+                        "correction": str(entry.get("correction", "")),
+                        "status": str(entry.get("status", "fabricated")),
+                        "arabic": str(entry.get("arabic", "")),
+                        "reference": str(
+                            entry.get("better_reference", entry.get("reference", ""))
+                        ),
+                        "topic": str(entry.get("topic", "")),
+                    }
+                ]
+
         matches = []
         try:
             settings = get_settings()

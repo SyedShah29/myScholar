@@ -4,7 +4,7 @@ import logging
 from typing import Any, AsyncIterator
 
 import httpx
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import retry, retry_if_not_exception_type, stop_after_attempt, wait_exponential
 
 logger = logging.getLogger(__name__)
 
@@ -40,7 +40,11 @@ class GroqClient:
             )
         return self._client
 
-    @retry(wait=wait_exponential(multiplier=1, min=2, max=10), stop=stop_after_attempt(3))
+    @retry(
+        retry=retry_if_not_exception_type(MissingGroqKey),
+        wait=wait_exponential(multiplier=1, min=2, max=10),
+        stop=stop_after_attempt(3),
+    )
     async def chat_completion(
         self,
         messages: list[dict[str, str]],
