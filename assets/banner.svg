@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="myScholar — grounded Islamic knowledge assistant">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#04120e"/>
+      <stop offset="0.55" stop-color="#072019"/>
+      <stop offset="1" stop-color="#0a2e24"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34d399"/>
+      <stop offset="1" stop-color="#fbbf24"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#103a2d" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)" opacity="0.55"/>
+
+  <g transform="translate(1010 158)" fill="none" stroke="url(#accent)" stroke-width="1.8">
+    <path d="M0 -86 L22 -30 L82 -30 L34 6 L52 64 L0 28 L-52 64 L-34 6 L-82 -30 L-22 -30 Z" fill="#072019"/>
+    <path d="M0 -52 L14 -18 L50 -18 L21 4 L32 39 L0 17 L-32 39 L-21 4 L-50 -18 L-14 -18 Z" stroke="#34d399" opacity="0.7"/>
+    <circle cx="0" cy="0" r="8" fill="#fbbf24" stroke="none"/>
+  </g>
+
+  <g stroke="#14503f" stroke-width="1.3">
+    <path d="M710 254 L808 212 L902 242 L1000 300"/>
+    <path d="M808 212 L852 122"/>
+  </g>
+  <g fill="#061a14" stroke="url(#accent)" stroke-width="1.8">
+    <circle cx="710" cy="254" r="6"/>
+    <circle cx="808" cy="212" r="8"/>
+    <circle cx="902" cy="242" r="6"/>
+    <circle cx="1000" cy="300" r="5"/>
+    <circle cx="852" cy="122" r="5"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="72" y="132" fill="#6ee7b7" font-size="17" letter-spacing="6" font-weight="600">GROUNDED ISLAMIC KNOWLEDGE</text>
+    <text x="70" y="206" fill="#ffffff" font-size="76" font-weight="700" letter-spacing="-1">myScholar</text>
+    <text x="73" y="247" fill="#c7ddd4" font-size="21">Answers with citations, not just confidence.</text>
+    <text x="73" y="281" fill="#6f9486" font-size="15" letter-spacing="1.5">QURAN  ·  HADITH  ·  SCHOLARS  ·  MADHAB-AWARE  ·  STREAMING</text>
+  </g>
+  <rect x="0" y="316" width="1280" height="4" fill="url(#accent)"/>
+</svg>
